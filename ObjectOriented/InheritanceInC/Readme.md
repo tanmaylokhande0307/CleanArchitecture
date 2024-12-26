@@ -1,0 +1,2 @@
+the NamedPoint data structure acts as though it is a derivative of the Point data structure.
+This is because the order of the first two fields in NamedPoint is the same as Point. In short, NamedPoint can masquerade as Point because NamedPoint is a pure superset of Point and maintains the ordering of the members that correspond to Point.
