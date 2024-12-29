@@ -3,7 +3,8 @@
     Structured Programming imposes discipline over direct transfer of control (goto statements)
 
 #### Object Oriented Programming
-    Object Oriented Programming imposes discipline over indirect transfer of control
+    Object Oriented Programming imposes discipline over indirect transfer of .
+    Object Oriented Programing helps us to achieve Dependency Inversion
 
 #### Functional Programming
     Functional Programming imposes discipline over assignment    
