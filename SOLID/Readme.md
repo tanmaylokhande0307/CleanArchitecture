@@ -13,3 +13,6 @@ subclasses can replace their superclasses without altering the program's behavio
 
 ### I - Interface Segeration Principle
 clients should not be forced to depend upon interfaced that they do not use
+
+### D - Dependency Inversion Principle
+Most flexible systems are those in which the source code depenedencies refer only to the abstractions and not on concretions
