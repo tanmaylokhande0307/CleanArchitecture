@@ -10,3 +10,6 @@ Higher level comoponents in the hierarchy are protected from the changes made to
 ### L - Liskov Substitution Principle
 If for each object o1 of type S there is an object o2 of type T such that for all Programs P defined in terms of T, the behaviour of P is unchanged when o1 is substituted with o2 then S is the subtype of T
 subclasses can replace their superclasses without altering the program's behavior or introducing errors
+
+### I - Interface Segeration Principle
+clients should not be forced to depend upon interfaced that they do not use
