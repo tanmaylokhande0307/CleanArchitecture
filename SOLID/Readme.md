@@ -16,3 +16,5 @@ clients should not be forced to depend upon interfaced that they do not use
 
 ### D - Dependency Inversion Principle
 Most flexible systems are those in which the source code depenedencies refer only to the abstractions and not on concretions
+- High level modules should not import anything from low level module both should depend on abstractions
+- Abstractions should not depend on details i.e(concrete implementations). Details should depend on abstractions
