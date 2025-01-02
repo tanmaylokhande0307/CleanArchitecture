@@ -27,3 +27,9 @@ I = Fan_Out / ( Fan_In + Fan_Out)
 range - [0,1]
 0 indicates maximally stable component
 1 indicates maximally unstable component
+
+
+![Instability calculation](instability_calculation_ex.png)
+
+We find that there are three classes outside Cc that depend on classes in Cc. Thus, Fan_In = 3.
+Moreover, there is one class outside Cc that classes in Cc depend on. Thus, Fan_Out = 1 and I = 1/4. 
