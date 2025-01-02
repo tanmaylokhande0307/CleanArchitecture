@@ -33,3 +33,5 @@ range - [0,1]
 
 We find that there are three classes outside Cc that depend on classes in Cc. Thus, Fan_In = 3.
 Moreover, there is one class outside Cc that classes in Cc depend on. Thus, Fan_Out = 1 and I = 1/4. 
+
+## The Stable Dependency Principle states that the I metrics of a component should be greater than the I metrics of a component it depends on. That is I metrics should decrease in the direction of dependency
