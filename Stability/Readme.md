@@ -1,0 +1,1 @@
+One sure way to make a software component hard to change is to make lots of components dependent on it. A component with lots of incoming dependencies is very stable because it requires a great deal of effort to reconcile any changes with all dependent components.
