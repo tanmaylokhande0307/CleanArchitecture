@@ -1,0 +1,2 @@
+### Abstraction
+An abstraction denotes the essential characteristics of an object that distinguish it from all other kinds of objects and thus provides crisply defined conceptual boundaries relative to the perspective of the viewer
